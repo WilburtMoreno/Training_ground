@@ -1,0 +1,14 @@
+body {
+	background:#999;
+	font-family: arial;
+}
+h2 {
+	color:#090;
+}
+.name {
+	padding: 0px 0px 0px 90px ;
+}
+
+#unique {
+	color:#009;
+}
